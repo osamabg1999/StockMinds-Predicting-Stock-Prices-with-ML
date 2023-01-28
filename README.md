@@ -12,7 +12,7 @@ StockPrice_Predictor.ipynb - a Jupyter notebook that contains all of the code.
 
 ## Installation
 To follow this project, please install the following locally:
-- JupyerLab
+- JupyterLab
 - Python 3.8+
 - Python packages
   - pandas
