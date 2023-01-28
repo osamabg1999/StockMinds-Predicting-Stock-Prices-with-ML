@@ -19,6 +19,7 @@ To follow this project, please install the following locally:
   - numpy
   - scikit-learn
   - matplotlib
+  - seaborn
 
 ## Data
 The two datasets used in this project were downloaded from investing.com
