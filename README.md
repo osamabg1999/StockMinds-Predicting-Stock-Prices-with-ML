@@ -2,10 +2,10 @@
 In this project, we'll predict the price of a company's stock. 
 
 **Project Step**
--Download data from investing.com
--Create an initial machine learning model and estimate accuracy
--Build a backtesting engine to more accurately measure accuracy
--Improve the accuracy of the model
+- Download data from investing.com
+- Create an initial machine learning model and estimate accuracy
+- Build a backtesting engine to more accurately measure accuracy
+- Improve the accuracy of the model
 
 ## Code
 StockPrice_Predictor.ipynb - a Jupyter notebook that contains all of the code.
