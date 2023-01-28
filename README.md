@@ -23,4 +23,5 @@ To follow this project, please install the following locally:
 ## Data
 The two datasets used in this project were downloaded from investing.com
 
-
+## Next Steps
+Add more predictors to improve accuracy
