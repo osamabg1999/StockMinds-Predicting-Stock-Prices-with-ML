@@ -1,7 +1,7 @@
 # Project Overview
 In this project, we'll predict the price of a company's stock. 
 
-**Project Step**
+**Project Steps**
 - Download data from investing.com
 - Create an initial machine learning model and estimate accuracy
 - Build a backtesting engine to more accurately measure accuracy
