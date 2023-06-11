@@ -1,5 +1,5 @@
 # Project Overview
-In this project, we'll predict the price of a company's stock. 
+In this project, we'll predict a company's stock price. 
 
 **Project Steps**
 - Download data from investing.com
